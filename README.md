@@ -1,1 +1,1 @@
-For this lab we tested the residual assumtptions (whether a model's residuals have normality and equal variance). We also checked for large leverage points, influential points, and outliers. 
+YOU MUST DOWNLOAD THE TEENGAMB.HTML TO VIEW THE JUYPTER NOTEBOOK. For this lab, we tested the residual assumptions (whether a model's residuals have normality and equal variance). We also checked for large leverage points, influential points, and outliers. 
